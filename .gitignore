@@ -1,0 +1,6 @@
+# Ignore specific file
+/client
+/server
+
+#ignore folders
+old-version-assign1/
